@@ -1,10 +1,4 @@
-'''
-Julio Hernandez
-Lab#4
-CS2302
-TTR 1:30
-Lab Purpose: This lab was to test the efficiency of a hash table with information used in Lab #3
-'''
+
 
 #node for hash class
 class HashNode:
